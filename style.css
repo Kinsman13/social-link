@@ -1,0 +1,28 @@
+.social{
+    background-color:hsl(0, 0%, 12%);
+    margin: auto;
+    margin-top: 5%;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    padding-top: 3%;
+    border-radius: 10%;
+}
+img{
+    border-radius: 50%;
+    width: 50px;
+
+}
+button{
+    width: 200px;
+    background-color: hsl(0, 0%, 8%)
+    ;
+    color: white;
+    font-size: 15px;
+}
+button:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+.attribution{
+    padding-top: 12%;
+}
